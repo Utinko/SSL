@@ -9,6 +9,6 @@ Este repositorio contiene los trabajos prácticos y ejercicios realizados durant
 - **Curso:** K2052
 
 ## Índice de Trabajos
-| Carpeta | Descripción | Estado |
-| :--- | :--- | :--- |
-| [00-CHelloworld](./00-CHelloworld) | Primer programa en C (Estándar C23) | ✅ Finalizado |
+| Carpeta | Descripción | Estado | Revisión |
+| :--- | :--- | :--- | :--- |
+| [00-CHelloworld](./00-CHelloworld) | Primer programa en C (Estándar C23) | ✅ Finalizado | ---- |
